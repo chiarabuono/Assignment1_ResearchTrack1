@@ -36,3 +36,14 @@ git push
 2. Merge the branch my-branch on the Master branch
 3. Push changes to github
 
+# Manage C files
+```powershell
+gedit file.c
+gcc file.c -o file
+chmod +x file.sh
+./file.sh
+```
+1. Create a file
+2. Compile it
+3. Make it executable
+4. Execute it
