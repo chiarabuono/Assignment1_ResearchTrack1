@@ -12,6 +12,7 @@ git push --set-upstream origin my-branch
 3. Push changes to github
 
 ## Create a branch
+Open the powershell and navigate to the right folder, then:
 ```
 git branch my-branch
 git checkout my-branch
